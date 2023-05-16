@@ -1,0 +1,10 @@
+.mainHeader {
+  padding: 8rem 12rem;
+  background-color: #ffffff;
+}
+
+.mainHeader-logo {
+  width: 80px;
+  height: 80px;
+  margin-left: 1rem;
+}

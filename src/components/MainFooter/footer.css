@@ -1,0 +1,37 @@
+.Lovoj__footer {
+  padding: 4rem 12rem;
+}
+
+.Lovoj__footer-logos {
+  display: flex;
+  align-items: center;
+  width: 40%;
+  justify-content: space-between;
+  padding-top: 2rem;
+}
+
+.Lovoj__footer-flex {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+}
+
+.Lovoj__footer-flex-items-list {
+  padding-top: 4rem;
+}
+
+.Lovoj__footer-flex-items-part2,
+.Lovoj__footer-flex-items-part3,
+.Lovoj__footer-flex-items-part4 {
+  padding-top: 3rem;
+}
+
+.Lovoj__footer-flex-items-images {
+  display: flex;
+  flex-direction: column;
+  padding-top: 5rem;
+  padding-left: 2rem;
+}
+
+.Lovoj__footer-googleplay {
+  width: 11rem;
+}
